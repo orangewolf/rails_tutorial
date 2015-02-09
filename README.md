@@ -1,2 +1,2 @@
 # rails_tutorial
-Hello Github
+This is a branch!
